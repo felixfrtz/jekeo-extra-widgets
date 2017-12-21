@@ -4,11 +4,11 @@ Extra custom coded Widgets for the Jekeo WordPress Theme.
 
 ## Getting Started
 
-Because I think there are some important widgets missing, I will be adding some here which I am using for my install.
+Because I think there are some widgets missing, I will be adding some here which I am using for my install.
 
 ### Installing
 
-This repo is a child theme of Jekeo. You can clone this repo and put it in your wp-content/themes folder and activate it.
+You can put the folders from /widgets/ in your /widgets/ folder in your theme. Ideally, a child theme should be used.
 
 ## Contributing
 
