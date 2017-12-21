@@ -1,6 +1,6 @@
-# Project Title
+# JEKEO Extra Widgets
 
-Extra Widgets for Jekeo
+Extra custom coded Widgets for the Jekeo WordPress Theme.
 
 ## Getting Started
 
